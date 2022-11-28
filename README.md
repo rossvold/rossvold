@@ -7,3 +7,4 @@
 Certifications:
 FreeCodeCamp;
 1. Responsive Web Design. Verify here: https://www.freecodecamp.org/certification/Rossvold/responsive-web-design
+2. JavaScript Algorithms and Data Structures. Verify at https://freecodecamp.org/certification/Rossvold/javascript-algorithms-and-data-structures
