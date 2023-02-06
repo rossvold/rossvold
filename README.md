@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Rossvold
 - 👀 I’m interested in Automation
-- 🌱 I’m currently studying Harvard CS50 and FreeCodeCamp.
+- 🌱 I’m currently studying Harvard CS50.
 - 📫 How to reach me https://www.linkedin.com/in/ruben-rossvold-36a653159/
+- I run sveltmedia.no, we deliver websites to Norwegian Companies. 
 
 
 Certifications:
