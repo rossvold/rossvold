@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @Rossvold
-- 👀 I’m interested in Automation
-- 🌱 I’m currently studying Harvard CS50.
-- 📫 How to reach me https://www.linkedin.com/in/ruben-rossvold-36a653159/
-- I run sveltmedia.no, we deliver websites to Norwegian Companies. 
+- 👨‍💼Fullstack Developer at Svelt Media As
 
+ My personal webdeveloper website
+ https://rossvold.dev
+- 📫 How to reach me: ruben@rossvold.dev
 
-Certifications:
-FreeCodeCamp;
-1. Responsive Web Design. Verify here: https://www.freecodecamp.org/certification/Rossvold/responsive-web-design
-2. JavaScript Algorithms and Data Structures. Verify at https://freecodecamp.org/certification/Rossvold/javascript-algorithms-and-data-structures
+Norwegians:
+Svelt Media As
+ https://sveltmedia.no, delivers websites to Norwegian Companies.
+- 📫 How to reach me: ruben@sveltmedia.no 
