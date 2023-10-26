@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Rossvold
-- 👨‍💼Fullstack Developer at Svelt Media As
-
+-Software developer
 Svelt Media As
- https://sveltmedia.no, delivers websites to Norwegian Companies.
-- 📫 How to reach me: ruben@sveltmedia.no 
+Employed at SveltMediaAS
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rossvold&theme=tokyonight)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rossvold&theme=tokyonight&utcOffset=8)
