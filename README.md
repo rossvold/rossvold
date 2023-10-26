@@ -1,5 +1,3 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rossvold&theme=tokyonight)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rossvold&theme=tokyonight&utcOffset=8)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vn7n24fzkq&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rossvold&theme=tokyonight&utcOffset=8)![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rossvold&theme=tokyonight) 
