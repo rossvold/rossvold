@@ -3,9 +3,7 @@
 
 - 🔭 Side projects i’m currently working on [Næringsnett](https://naeringsnett.no)
 
-- 👨‍💻 My [Portofolio](https://rossvold.dev/portofolio)
 
-- 📝 I regularly write articles on [rossvold.dev](https://rossvold.dev/posts)
 
 - 📫 How to reach me **ruben@rossvold.dev**
 
