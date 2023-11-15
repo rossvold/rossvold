@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ruben Rossvold</h1>
-<h3 align="center">SEO driven developer from Norway</h3>
+
 
 - 🔭 Side projects i’m currently working on [Næringsnett](https://naeringsnett.no)
 
