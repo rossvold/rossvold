@@ -1,6 +1,3 @@
-<h1 align="center">Hi 👋, I'm Ruben Rossvold</h1>
-
-
 - 🔭 Side projects i’m currently working on [Næringsnett](https://naeringsnett.no)
 
 
