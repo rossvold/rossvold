@@ -1,5 +1,5 @@
 Noen ting jeg har jobbet med:
-[Firma oppslag](https://naeringsnett.no)
+[Næringsnett (Bedriftsoppslag)](https://naeringsnett.no)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rossvold&theme=tokyonight)
 
