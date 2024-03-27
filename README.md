@@ -1,5 +1,8 @@
 Noen ting jeg har jobbet med:
-[Næringsnett (Bedriftsoppslag)](https://naeringsnett.no)
+
+[Næringsnett (Bedriftsoppslag)](https://naeringsnett.no), 
+
+[Svelt Media As (b2b applikasjoner)](https://sveltmedia.no)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rossvold&theme=tokyonight)
 
