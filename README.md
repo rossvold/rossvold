@@ -1,3 +1,6 @@
+Noen ting jeg har jobbet med:
+[Firma oppslag](https://naeringsnett.no)
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rossvold&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rossvold&hide_progress=true)
