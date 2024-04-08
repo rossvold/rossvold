@@ -1,4 +1,4 @@
-Noen ting jeg har jobbet med:
+
 
 [Næringsnett (Bedriftsoppslag)](https://naeringsnett.no), 
 
