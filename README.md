@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Backend in fintech & ecommerce applications
 
 Fullstack developer with fullstack experience in web & mobile development.
