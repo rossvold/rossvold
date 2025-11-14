@@ -8,7 +8,7 @@ Backend in fintech & ecommerce
 * Styling: Tailwindcss
 * Databases: Sqlite, Postgres, Mysql
 * Services: Supabase, Turso, Firebase, Linode
-* Infrastructure: Linux, Docker
+* Infrastructure: Linux, Docker, Kamal
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=rossvold&theme=dark&hide_border=true)<br/>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
