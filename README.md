@@ -1,5 +1,5 @@
 # About Me:
-Backend in fintech & ecommerce
+Backend in fintech & ecommerce, i scale applications to be ready for millions of concurrent users, while saving costs.
 
 # 💻 Tech Stack:
 * Languages: TS, JS, Zig, Lua
@@ -9,6 +9,7 @@ Backend in fintech & ecommerce
 * Databases: Sqlite, Postgres, Mysql
 * Services: Supabase, Turso, Firebase, Linode
 * Infrastructure: Linux, Docker, Kamal
+
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=rossvold&theme=dark&hide_border=true)<br/>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
